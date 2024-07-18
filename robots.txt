@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://licetamar.github.io/sitemap/sitemap.txt
